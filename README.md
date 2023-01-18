@@ -1,6 +1,6 @@
 ### Jogo da Velha
 
-Jogo da velha desenvolvido em Python
+Nesse projeto desenvolvi um jogo da velha usando Python
 
 ### Linguagens e Ferramentas Utilizadas
 
